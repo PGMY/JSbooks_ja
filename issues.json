@@ -5,8 +5,7 @@
         "authorUrl": "http://www.javascriptenlightenment.com",
         "level": "Intermediate",
         "info": "An accurate JavaScript worldview through an examination of native JavaScript objects and supporting nuances.",
-        "url_en": "http://www.javascriptenlightenment.com/JavaScript_Enlightenment.pdf",
-        "url_ja": "http://www.javascriptenlightenment.com/JavaScript_Enlightenment.pdf",
+        "url": "http://www.javascriptenlightenment.com/JavaScript_Enlightenment.pdf",
         "cover": "img/cover_jsenlight.png"
     },
     {
@@ -15,8 +14,7 @@
         "authorUrl": "http://eloquentjavascript.net",
         "level": "Beginner",
         "info": "A book providing an introduction to the JavaScript language and programming in general.",
-        "url_en": "http://eloquentjavascript.net/contents.html",
-        "url_ja": "http://eloquentjavascript.net/contents.html",
+        "url": "http://eloquentjavascript.net/contents.html",
         "cover": "img/cover_eloquentjs.png"
     },
     {
@@ -25,19 +23,17 @@
         "authorUrl": "http://dailyjs.com",
         "level": "Advanced",
         "info": "best Of Let’s Make a Framework articles.",
-        "url_en": "http://dailyjs.com/files/build-a-javascript-framework.pdf",
-        "url_ja": "http://dailyjs.com/files/build-a-javascript-framework.pdf",
+        "url": "http://dailyjs.com/files/build-a-javascript-framework.pdf",
         "cover": "img/cover_buildingjsframework.png"
     },
     {
-        "title": "Mastering NodeJS",
-        "author": "TJ Holowaychuk",
-        "authorUrl": "http://visionmedia.github.com/masteringnode",
+        "title": "JS in ten minutes",
+        "author": "Spencer Tipping",
+        "authorUrl": "http://spencertipping.com/",
         "level": "Advanced",
-        "info": "In Mastering Node we will discover how to write high concurrency web servers,…",
-        "url_en": "http://github.com/visionmedia/masteringnode/raw/master/book.pdf",
-        "url_ja": "http://github.com/visionmedia/masteringnode/raw/master/book.pdf",
-        "cover": "img/cover_masteringnode.png"
+        "info": "This guide is for anyone who knows some Javascript but would like a quick intro to its advanced features.",
+        "url": "https://github.com/spencertipping/js-in-ten-minutes/blob/master/js-in-ten-minutes.pdf",
+        "cover": "img/cover_js10minutes.png"
     },
     {
         "title": "Smooth CoffeeScript",
@@ -45,8 +41,7 @@
         "authorUrl": "http://autotelicum.github.com/Smooth-CoffeeScript",
         "level": "Intermediate",
         "info": "An introduction to CoffeeScript programming with an emphasis on clarity, abstraction and verification.",
-        "url_en": "http://autotelicum.github.com/Smooth-CoffeeScript/interactive/interactive-coffeescript.html",
-        "url_ja": "http://autotelicum.github.com/Smooth-CoffeeScript/interactive/interactive-coffeescript.html",
+        "url": "http://autotelicum.github.com/Smooth-CoffeeScript/interactive/interactive-coffeescript.html",
         "cover": "img/cover_smoothcoffeescript.png"
     },
     {
@@ -55,8 +50,7 @@
         "authorUrl": "http://www.nodebeginner.org",
         "level": "Intermediate",
         "info": "The aim of the book is to get you started with developing applications with Node.js, teaching you everything you need to know about 'Advanced' JavaScript along the way.",
-        "url_en": "http://www.nodebeginner.org/#about",
-        "url_ja": "http://www.nodebeginner.org/#about",
+        "url": "http://www.nodebeginner.org/#about",
         "cover": "img/cover_nodebeginnerbook.png"
     },
     {
@@ -65,8 +59,7 @@
         "authorUrl": "http://jqfundamentals.com",
         "level": "beginner",
         "info": "Community driven Javascript and jQuery book.",
-        "url_en": "http://jqfundamentals.com/",
-        "url_ja": "http://jqfundamentals.com/",
+        "url": "http://jqfundamentals.com/",
         "cover": "img/cover_jqueryfund.png"
     },
     {
@@ -75,8 +68,7 @@
         "authorUrl": "https://twitter.com/addyosmani",
         "level": "Intermediate",
         "info": "In this book we will explore MVC theory and how to build applications using Backbone's models, views, collections and routers.",
-        "url_en": "http://addyosmani.github.com/backbone-fundamentals",
-        "url_ja": "http://addyosmani.github.com/backbone-fundamentals",
+        "url": "http://addyosmani.github.com/backbone-fundamentals",
         "cover": "img/cover_backbonefundamentals.png"
     },
     {
@@ -85,8 +77,7 @@
         "authorUrl": "https://developer.mozilla.org",
         "level": "beginner",
         "info": "JavaScript is a cross-platform, object-based scripting language. This guide explains everything you need to know about using JavaScript.",
-        "url_en": "https://developer.mozilla.org/en/JavaScript/Guide/JavaScript_Overview",
-        "url_ja": "https://developer.mozilla.org/en/JavaScript/Guide/JavaScript_Overview",
+        "url": "https://developer.mozilla.org/en/JavaScript/Guide/JavaScript_Overview",
         "cover": "img/cover_jsguidemozilla.png"
     },
     {
@@ -95,18 +86,16 @@
         "authorUrl": "http://github.com/maxogden",
         "level": "beginner",
         "info": "An in-browser interactive introductory programming text designed for cats. Humans are probably also capable of following along.",
-        "url_en": "http://jsforcats.com",
-        "url_ja": "http://jsforcats.com",
+        "url": "http://jsforcats.com",
         "cover": "img/cover_jsforcats.png"
     },
     {
-        "title": "Learning Javascript Design Patterns",
+        "title": "Javascript Design Patterns",
         "author": "Addy Osmani",
         "authorUrl": "https://twitter.com/addyosmani",
         "level": "beginner",
         "info": "In this book we will explore applying both classical and modern design patterns to the JavaScript programming language",
-        "url_en": "http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/",
-        "url_ja": "http://blog.sarabande.jp/post/2908152943",
+        "url": "http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/",
         "cover": "img/cover_jspatterns.png"
     },
     {
@@ -115,8 +104,7 @@
         "authorUrl": "https://twitter.com/addyosmani",
         "level": "Advanced",
         "info": "In this article, we're going to look at three formats for writing modular JavaScript: AMD, CommonJS and proposals for the next version of JavaScript, Harmony.",
-        "url_en": "http://addyosmani.com/writing-modular-js",
-        "url_ja": "http://addyosmani.com/writing-modular-js",
+        "url": "http://addyosmani.com/writing-modular-js",
         "cover": "img/cover_modularjavascript.png"
     },
     {
@@ -125,8 +113,7 @@
         "authorUrl": "http://arcturo.github.com/",
         "level": "intermediate",
         "info": "This book is designed to help you learn CoffeeScript, understand best practices and start building awesome client side applications.",
-        "url_en": "http://arcturo.github.com/library/coffeescript/01_introduction.html",
-        "url_ja": "http://minghai.github.com/library/coffeescript/index.html",
+        "url": "http://arcturo.github.com/library/coffeescript/01_introduction.html",
         "cover": "img/cover_littlecoffeescript.png"
     },
     {
@@ -135,8 +122,7 @@
         "authorUrl": "http://www.noelrappin.com/",
         "level": "Intermediate",
         "info": "[NOTE : Free registration needed]. A four book series aimed at developers who have a basic knowledge of JavaScript but who need to learn about newer tools and practices.",
-        "url_en": "http://www.noelrappin.com/mstwjs",
-        "url_ja": "http://www.noelrappin.com/mstwjs",
+        "url": "http://www.noelrappin.com/mstwjs",
         "cover": "img/cover_masterspacetime.png"
     },
     {
@@ -145,8 +131,7 @@
         "authorUrl": "http://joshondesign.com/",
         "level": "Advanced",
         "info": "For those who allready know JavaScript basics and wants to learn HTML Canvas.",
-        "url_en": "http://hudson.joshy.org:9001/job/canvas-book/ws/out/toc.html",
-        "url_ja": "http://hudson.joshy.org:9001/job/canvas-book/ws/out/toc.html",
+        "url": "http://hudson.joshy.org:9001/job/canvas-book/ws/out/toc.html",
         "cover": "img/cover_htmlcanvas.png"
     },
     {
@@ -155,8 +140,7 @@
         "authorUrl": "http://http://www.siteduzero.com/",
         "level": "Beginner",
         "info": "[IN FRENCH] Le tutorial référence en francais pour apprendre le JavaScript. Culte !",
-        "url_en": "http://www.siteduzero.com/tutoriel-3-309961-dynamisez-vos-sites-web-avec-javascript.html#part_309955",
-        "url_ja": "http://www.siteduzero.com/tutoriel-3-309961-dynamisez-vos-sites-web-avec-javascript.html#part_309955",
+        "url": "http://www.siteduzero.com/tutoriel-3-309961-dynamisez-vos-sites-web-avec-javascript.html#part_309955",
         "cover": "img/cover_sitezero.png"
     },
     {
@@ -165,8 +149,7 @@
         "authorUrl": "http://jackfranklin.co.uk/",
         "level": "Intermediate",
         "info": "[NOTE : Download needed]. You will be guided through the creation of a shopping cart system. You’ll learn about using and testing jQuery code, writing more idiomatic CoffeeScript and building a well thought out and structured, complex JavaScript application.",
-        "url_en": "https://efendibooks.com/minibooks/testing-with-coffeescript",
-        "url_ja": "https://efendibooks.com/minibooks/testing-with-coffeescript",
+        "url": "https://efendibooks.com/minibooks/testing-with-coffeescript",
         "cover": "img/cover_testingcf.png"
     },
     {
@@ -175,8 +158,70 @@
         "authorUrl": "http://www.rauschma.de/",
         "level": "Intermediate",
         "info": "[NOTE : Free registration needed] Historical JavaScript milestones and an overview of ECMAScript.next, the next version of JavaScript.",
-        "url_en": "http://oreillynet.com/oreilly/javascript/radarreports/past-present-future-javascript.csp",
-        "url_ja": "http://oreillynet.com/oreilly/javascript/radarreports/past-present-future-javascript.csp",
+        "url": "http://oreillynet.com/oreilly/javascript/radarreports/past-present-future-javascript.csp",
         "cover": "img/cover_pastpresentfuturejs.png"
+    },
+    {
+        "title": "Dive into HTML 5",
+        "author": "Mark Pilgrim",
+        "authorUrl": "http://en.wikipedia.org/wiki/Mark_Pilgrim_(software_developer)",
+        "level": "Intermediate",
+        "info": "A community ebook to discover HTML5 best practices and experiment with Javascript.",
+        "url": "http://diveintohtml5.info/index.html",
+        "cover": "img/cover_diveintohtml5.png"
+    },
+    {
+        "title": "Javascript Garden",
+        "author": "Ivo Wetzel",
+        "authorUrl": "https://github.com/BonsaiDen",
+        "level": "Advanced",
+        "info": "A collection of documentation about the most quirky parts of JavaScript.",
+        "url": "http://bonsaiden.github.com/JavaScript-Garden",
+        "cover": "img/cover_javascriptgarden.png"
+    },
+    {
+        "title": "The little MongoDB book",
+        "author": "Karl Seguin",
+        "authorUrl": "http://openmymind.net/",
+        "level": "Advanced",
+        "info": "Discover NoSQL with MongoDB and commons Javascript usage patterns.",
+        "url": "http://openmymind.net/mongodb.pdf",
+        "cover": "img/cover_mongodbbook.png"
+    },
+    {
+        "title": "Up and Running with Node.js",
+        "author": "Tom Hughes-Croucher",
+        "authorUrl": "http://tomhughescroucher.com/",
+        "level": "Advanced",
+        "info": "Discover NodeJS APIS, tools, modules and best practices and learn how to extend it.",
+        "url": "http://ofps.oreilly.com/titles/9781449398583/index.html",
+        "cover": "img/cover_upandrunningnode.png"
+    },
+    {
+        "title": "Mixu's Node book",
+        "author": "Mikito Takada",
+        "authorUrl": "http://mixu.net/",
+        "level": "Advanced",
+        "info": "A comprehensive and interesting NodeJS overview covering many aspects in details.",
+        "url": "http://book.mixu.net/",
+        "cover": "img/cover_nodemixu.png"
+    },
+    {
+        "title": "Single page apps in depth",
+        "author": "Mikito Takada",
+        "authorUrl": "http://mixu.net/",
+        "level": "Advanced",
+        "info": "Learn the best practices for implementing single page web apps.",
+        "url": "http://singlepageappbook.com/",
+        "cover": "img/cover_singlepagewebapps.png"
+    },
+    {
+        "title": "Mastering NodeJS",
+        "author": "TJ Holowaychuk",
+        "authorUrl": "http://visionmedia.github.com/masteringnode",
+        "level": "Advanced",
+        "info": "In Mastering Node we will discover how to write high concurrency web servers,…",
+        "url": "http://github.com/visionmedia/masteringnode/raw/master/book.pdf",
+        "cover": "img/cover_masteringnode.png"
     }
 ]}

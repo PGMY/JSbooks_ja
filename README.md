@@ -1,10 +1,11 @@
 JSBooks
 =======
 
-JSBooks is a showcase of the bests free ebooks about Javascript. Find here the best publications about your favourite programming langage without spending any bucks !
-JSBooks_jaはオリジナルのJSBooksに日本語訳が公開されている本については日本語翻訳サイト情報を追加したものです。
-Original : http://jsbooks.revolunet.com
-Japanease : http://lab.pgmy.jp/JSBooks
+JSBooks is a showcase of the bests free ebooks about Javascript. Find here the best publications about your favourite programming langage without spending any bucks !  
+JSBooks_jaはオリジナルのJSBooksに日本語訳が公開されている本については日本語翻訳サイト情報を追加したものです。  
+
+Original : http://jsbooks.revolunet.com  
+Japanease : http://lab.pgmy.jp/JSBooks  
 
 
 HOW TO ADD YOUR PUBLICATION

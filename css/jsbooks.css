@@ -1328,7 +1328,7 @@ a#infos:hover {
 }
 .btn {
   font: bold 15px 'PT Sans Narrow', Helvetica, Arial, sans-serif;
-  width: 100px;
+  width: 70px;
   background: #f7df1e;
   background: -moz-linear-gradient(top, #f7df1e 0%, #edc536 100%);
   background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #f7df1e), color-stop(100%, #edc536));
